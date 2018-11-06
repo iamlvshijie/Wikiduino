@@ -1,0 +1,12 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=wikidunio-w600\wikidunio-w600.PrjPCB
+[Project2]
+ProjectPath=wikidunio-rda5981\wikidunio-rda5981.PrjPCB
+[Project3]
+ProjectPath=wikidunio-f1c200s\wikidunio-f1c200s.PrjPCB
+[Project4]
+ProjectPath=wikidunio-xr871\wikidunio-xr871.PrjPCB
+[Project5]
+ProjectPath=wikidunio-atmega328p\wikidunio-atmega328p.PrjPCB
